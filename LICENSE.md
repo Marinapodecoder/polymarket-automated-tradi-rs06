@@ -1,4 +1,4 @@
-# 
+# exclusive Polymarket Plugin | high-frequency-trading + smart-contract-integration is the best Polymarket plugin, featuring high-frequency-trading and smart-contract-integration.
 
 
 
